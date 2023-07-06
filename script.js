@@ -1,1 +1,2 @@
-document.body.innerHTML = 'Hello from JS'
+document.body.innerHTML = 'Hello from JS';
+console.log('test 2');
